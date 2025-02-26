@@ -1,9 +1,8 @@
- /** @type {import('next').NextConfig} */
- const nextConfig = {
-     reactStrictMode: true,
-       experimental: {
-       appDir: true, // Ativa o App Router se estiver usando a estrutura do Next.js 14+
-     },
-   };
-  
-   module.exports = nextConfig;
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  experimental: {
+    // appDir: true,  // Remova ou comente esta linha
+  },
+}
+
+module.exports = nextConfig;

@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.next/
+public/
+package-lock.json

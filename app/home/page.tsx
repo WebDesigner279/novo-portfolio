@@ -15,7 +15,6 @@ export default function Home() {
           height={38}
           priority
         />
-
         <p className={styles.paragraph}>
           <span className={styles.bold}>Olá,</span> sou Valter Vieira Gomes
           Junior
